@@ -5,7 +5,7 @@ CNN and CV :
 4. siamese__network
 5. yolo Object Detection
 
-Machine Learning and EDA
+Machine Learning and EDA :
 1. C02 Emission Prediction
 2. Cross Validation
 3. PUBG_EDA
