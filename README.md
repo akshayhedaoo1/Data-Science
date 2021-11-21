@@ -1,9 +1,10 @@
 CNN and CV :
-1. Dogs_and_Cats_Classification using CNN
+1. Dogs_and_Cats_Classification using Custom CNN Models
 2. GANS_ using_pokemon_dataset
 3. Unet_lungs_Area_detection
 4. siamese__network
 5. yolo Object Detection
+6. Brain_Tumour_Classification using Pretrained and Custom CNN models
 
 Machine Learning and EDA :
 1. C02 Emission Prediction
