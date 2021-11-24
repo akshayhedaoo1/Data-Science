@@ -10,9 +10,8 @@ Machine Learning and EDA :
 1. C02 Emission Prediction
 2. Cross Validation
 3. PUBG_EDA
-4. Polynomial Regression- Case Study
-5. PropertyOnRent_EDA
-6. Airline-Satisfaction-Prediction
+4. PropertyOnRent_EDA
+5. Airline-Satisfaction-Prediction
 
 NLP :
 1. Bag_of_words
