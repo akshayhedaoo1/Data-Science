@@ -12,7 +12,7 @@ Machine Learning and EDA :
 3. PUBG_EDA
 4. PropertyOnRent_EDA
 5. Airline Satisfaction Prediction
-6. Clustering_on_Football_Players_dataset
+6. Clustering on Football Players dataset
 
 NLP :
 1. Text Classification using Bag of Words
